@@ -1,0 +1,11 @@
+redis:
+  host: localhost
+  port: 30001
+  password:
+  jedis:
+    pool:
+      max:
+        total: 16
+        idle: 8
+      min:
+        idle: 8
