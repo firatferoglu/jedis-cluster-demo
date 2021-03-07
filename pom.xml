@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>io.redis.jedis</groupId>
-	<artifactId>jedis-demo</artifactId>
+	<artifactId>jedis-cluster-demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>jedis-demo</name>
+	<name>jedis-cluster-demo</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
